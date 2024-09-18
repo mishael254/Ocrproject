@@ -5,6 +5,7 @@
     <system:String x:Key="OpenImages">Open Images</system:String>
     <system:String x:Key="SaveText">Save as Text</system:String>
     <system:String x:Key="SaveWord">Save as Word</system:String>
+    <system:String x:Key="SaveExcel">Save as Excel</system:String>
     <system:String x:Key="RecognizeAll">Process All Pages</system:String>
     <system:String x:Key="Language">Select Language</system:String>
     <system:String x:Key="About">About</system:String>

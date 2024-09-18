@@ -3,7 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2387655-B202-464B-B79E-66580924E0F9}|(a9t9)OcrDesktop.csproj|c:\\users\\misha\\documents\\cbcc\\ocrconverter\\view\\dictionarystyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E2387655-B202-464B-B79E-66580924E0F9}|(a9t9)OcrDesktop.csproj|c:\\users\\misha\\documents\\cbcc\\ocrconverter\\view\\rightsidecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2387655-B202-464B-B79E-66580924E0F9}|(a9t9)OcrDesktop.csproj|solutionrelative:view\\rightsidecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\misha\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2387655-B202-464B-B79E-66580924E0F9}|(a9t9)OcrDesktop.csproj|c:\\users\\misha\\documents\\cbcc\\ocrconverter\\resources\\resourceenglish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2387655-B202-464B-B79E-66580924E0F9}|(a9t9)OcrDesktop.csproj|solutionrelative:resources\\resourceenglish.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2387655-B202-464B-B79E-66580924E0F9}|(a9t9)OcrDesktop.csproj|C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2387655-B202-464B-B79E-66580924E0F9}|(a9t9)OcrDesktop.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2387655-B202-464B-B79E-66580924E0F9}|(a9t9)OcrDesktop.csproj|C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\view\\dictionarystyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E2387655-B202-464B-B79E-66580924E0F9}|(a9t9)OcrDesktop.csproj|solutionrelative:view\\dictionarystyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -30,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +53,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\misha\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [Read Only]",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAtwHcAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:00:58.841Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ResourceEnglish.xaml",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\Resources\\ResourceEnglish.xaml",
+              "RelativeDocumentMoniker": "Resources\\ResourceEnglish.xaml",
+              "ToolTip": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\Resources\\ResourceEnglish.xaml",
+              "RelativeToolTip": "Resources\\ResourceEnglish.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T07:56:52.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RightSideControl.xaml",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\View\\RightSideControl.xaml",
+              "RelativeDocumentMoniker": "View\\RightSideControl.xaml",
+              "ToolTip": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\View\\RightSideControl.xaml",
+              "RelativeToolTip": "View\\RightSideControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T05:50:03.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\View\\MainWindow.xaml",
+              "RelativeToolTip": "View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T05:48:36.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ImageConverter.cs",
               "DocumentMoniker": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\Model\\ImageConverter.cs",
               "RelativeDocumentMoniker": "Model\\ImageConverter.cs",
@@ -50,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DictionaryStyle.xaml",
               "DocumentMoniker": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\View\\DictionaryStyle.xaml",
               "RelativeDocumentMoniker": "View\\DictionaryStyle.xaml",
@@ -62,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "LeftSideViewModel.cs",
               "DocumentMoniker": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\ViewModel\\LeftSideViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\LeftSideViewModel.cs",
@@ -74,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IFileManipulator.cs",
               "DocumentMoniker": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\Model\\IFileManipulator.cs",
               "RelativeDocumentMoniker": "Model\\IFileManipulator.cs",
@@ -86,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "FileManipulator.cs",
               "DocumentMoniker": "C:\\Users\\misha\\Documents\\cbcc\\Ocrconverter\\Model\\FileManipulator.cs",
               "RelativeDocumentMoniker": "Model\\FileManipulator.cs",

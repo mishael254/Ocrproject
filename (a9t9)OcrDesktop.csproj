@@ -227,6 +227,7 @@
     <Resource Include="1425244695_283051.ico" />
     <Resource Include="introtext.jpg" />
     <Resource Include="testimage.tif" />
+    <Resource Include="Icons\excel.png" />
     <Content Include="x64\liblept168.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
