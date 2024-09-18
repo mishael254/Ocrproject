@@ -45,6 +45,18 @@
                     </ImageSource>
                 </ToggleButton.Resources>
             </ToggleButton>
+
+            <ToggleButton Content="{DynamicResource SaveExcel}"
+                          Background="Azure"
+                                HorizontalAlignment="Left"
+                                Template="{StaticResource ResourceKey=ToggleButtonTemplate}"
+                                Command="{Binding SaveTextExcelCommand}">
+                <ToggleButton.Resources>
+                    <ImageSource x:Key="Img">
+                        ../Icons/excel.png
+                    </ImageSource>
+                </ToggleButton.Resources>
+            </ToggleButton>
             <Label Content="Ocr Language" VerticalAlignment="Center"></Label>
             <ComboBox ItemsSource="{Binding OcrLanguages}" VerticalContentAlignment="Center"
                               Height="25"
